@@ -1,6 +1,6 @@
 # Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexis
 
-### Computer Science Student
+### Computer Science Student • C++
 ------------------------
 
 I love learning new things: Including programming languages and also languages to talk to REAL people! (Crazy Right)
